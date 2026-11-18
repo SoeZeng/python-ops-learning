@@ -1,0 +1,10 @@
+node_modules/
+dist/
+public/samples/
+public/xunzhan-samples.zip
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+*.jsonl
+!samples/xunzhan/fixtures/*.jsonl
