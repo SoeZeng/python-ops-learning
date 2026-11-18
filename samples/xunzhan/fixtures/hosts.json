@@ -1,0 +1,20 @@
+[
+  {
+    "name": "api-1",
+    "disk_used_percent": 71.0,
+    "heartbeat_age_s": 12,
+    "heartbeat_limit_s": 60
+  },
+  {
+    "name": "worker-1",
+    "disk_used_percent": 84.0,
+    "heartbeat_age_s": 480,
+    "heartbeat_limit_s": 120
+  },
+  {
+    "name": "cron-1",
+    "disk_used_percent": 93.0,
+    "heartbeat_age_s": 45,
+    "heartbeat_limit_s": 60
+  }
+]

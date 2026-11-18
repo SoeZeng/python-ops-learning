@@ -1,0 +1,4 @@
+{"ts": "2026-11-18T10:00:00+08:00", "host": "api-1", "name": "disk.used_percent", "value": 71.2, "labels": {"path": "/"}}
+{"ts": "2026-11-18T10:00:00+08:00", "host": "api-1", "name": "load.1m", "value": 0.2}
+{"ts": "2026-11-18T10:00:00+08:00", "host": "worker-1", "name": "disk.used_percent", "value": 93.5, "labels": {"path": "/"}}
+{"ts": "2026-11-18T10:00:05+08:00", "host": "worker-1", "name": "disk.used_percent", "value": 91.0, "labels": {"path": "/"}}
